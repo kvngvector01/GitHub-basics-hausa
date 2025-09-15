@@ -6,7 +6,7 @@ Gabatar da ayyuka na GitHub a harshen hausa
 GitHub wata dandali ce da ake amfani da ita wajen adana, raba, da kuma sarrafa lambobin kwamfuta (code).
 
 🧰 Muhimman Ayyuka:
-Create Repository: Ƙirƙirar wuri na ajiyar code.
+Create Repository: Ƙirƙirar wuri na ajiyar code. 
 Commit: Ajiye canje-canje da aka yi.
 Push: Tura canje-canje daga na’ura zuwa GitHub.
 Pull: Zazzage sabon canje-canje daga GitHub.
